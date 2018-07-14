@@ -1,1 +1,4 @@
-checking with GUI edit changes with new data added
+checking with GUI
+line new at 2
+line new at 3
+edit changes with new data added
