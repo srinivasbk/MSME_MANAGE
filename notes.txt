@@ -1,2 +1,2 @@
 checking with GUI edit changes with new data added
-writing new ;line to local file
+edit changes with new data added
